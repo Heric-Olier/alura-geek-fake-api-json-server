@@ -10,15 +10,15 @@
     {
       "name": "Joystick XBox Series X Azul",
       "price": "60.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "Este mando de Xbox Series combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kUrt3fl.png",
       "category": "NewProduct",
       "id": "np1"
     },
     {
-      "name": "Consola Snes Clasic Mini",
+      "name": "Consola Snes Classic Mini",
       "price": "300.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "Con tu consola Super NES Classic Mini tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.",
       "imageUrl": "https://i.imgur.com/kuk58pG.png",
       "category": "NewProduct",
       "id": "np2"
@@ -26,7 +26,7 @@
     {
       "name": "Figura de coleccion Star Wars Baby Yoda",
       "price": "50.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "A los fanáticos de Star Wars les encantará asumir el papel de The Mandalorian Bounty Hunter y cuidar al niño por su cuenta!Abraza completamente la ternura de la especie Yoda de 50 años con este adorable peluche de 11 pulgadas.",
       "imageUrl": "https://i.imgur.com/hC7fsD7.png",
       "category": "NewProduct",
       "id": "np3"
@@ -34,7 +34,7 @@
     {
       "name": "Joystick PS5 edición Amarillo",
       "price": "100.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kWtO4c2.png",
       "category": "NewProduct",
       "id": "np4"
@@ -42,21 +42,18 @@
     {
       "name": "Consola Xbox Series X Negra",
       "price": "600.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo.",
       "imageUrl": "https://i.imgur.com/0wcVUlX.png",
       "category": "NewProduct",
       "id": "np5"
     },
     {
-      "name": "JConsola Steam Deck Negra",
+      "name": "Consola Steam Deck Negra",
       "price": "1000.00",
-      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "description": "El Steam Deck de Valve es el “PC gaming de mano” más esperado del mercado. Y es que promete ofrecer un rendimiento sensacional a pesar de su pequeño tamaño, equiparable a una consola portátil, junto con una excelente experiencia de uso y un precio bajo.",
       "imageUrl": "https://i.imgur.com/DdS7VpG.png",
       "category": "NewProduct",
       "id": "np6"
     }
-
-
-    
   ]
 }
