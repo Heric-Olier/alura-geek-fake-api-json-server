@@ -1,27 +1,62 @@
 {
-  "perfil": [
+  "profile": [
     {
-      "email": "Heric@gmail.com",
-      "password": "Admin123",
+      "email": "Heric@alura.com",
+      "password": "admin123",
       "id": 1
     }
   ],
-  "productos": [
+  "products": [
     {
-      "nombre": "Producto XYZ",
-      "precio": "60.00",
-      "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "https://i.imgur.com/MtQn0zP.png",
-      "categoria": "StarWars",
-      "id": "s1"
+      "name": "Joystick XBox Series X Azul",
+      "price": "60.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/kUrt3fl.png",
+      "category": "NewProduct",
+      "id": "np1"
     },
     {
-      "nombre": "Producto XYZ",
-      "precio": "60.00",
-      "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
-      "imagen": "https://i.imgur.com/RPPvIkI.png",
-      "categoria": "StarWars",
-      "id": "s2"
+      "name": "Consola Snes Clasic Mini",
+      "price": "300.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/kuk58pG.png",
+      "category": "NewProduct",
+      "id": "np2"
+    },
+    {
+      "name": "Figura de coleccion Star Wars Baby Yoda",
+      "price": "50.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/hC7fsD7.png",
+      "category": "NewProduct",
+      "id": "np3"
+    },
+    {
+      "name": "Joystick PS5 edición Amarillo",
+      "price": "100.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/kWtO4c2.png",
+      "category": "NewProduct",
+      "id": "np4"
+    },
+    {
+      "name": "Consola Xbox Series X Negra",
+      "price": "600.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/0wcVUlX.png",
+      "category": "NewProduct",
+      "id": "np5"
+    },
+    {
+      "name": "JConsola Steam Deck Negra",
+      "price": "1000.00",
+      "description": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
+      "imageUrl": "https://i.imgur.com/DdS7VpG.png",
+      "category": "NewProduct",
+      "id": "np6"
     }
+
+
+    
   ]
 }
