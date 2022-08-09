@@ -9,7 +9,7 @@
   "products": [
     {
       "name": "Joystick XBox Series X Azul",
-      "price": "60.00",
+      "price": "$60.00",
       "description": "Este mando de Xbox Series combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kUrt3fl.png",
       "category": "NewProduct",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Consola Snes Classic Mini",
-      "price": "300.00",
+      "price": "$300.00",
       "description": "Con tu consola Super NES Classic Mini tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.",
       "imageUrl": "https://i.imgur.com/kuk58pG.png",
       "category": "NewProduct",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Figura de coleccion Star Wars Baby Yoda",
-      "price": "50.00",
+      "price": "$50.00",
       "description": "A los fanáticos de Star Wars les encantará asumir el papel de The Mandalorian Bounty Hunter y cuidar al niño por su cuenta!Abraza completamente la ternura de la especie Yoda de 50 años con este adorable peluche de 11 pulgadas.",
       "imageUrl": "https://i.imgur.com/hC7fsD7.png",
       "category": "NewProduct",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Joystick PS5 edición Amarillo",
-      "price": "100.00",
+      "price": "$100.00",
       "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kWtO4c2.png",
       "category": "NewProduct",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Consola Xbox Series X Negra",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo.",
       "imageUrl": "https://i.imgur.com/0wcVUlX.png",
       "category": "NewProduct",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Consola Steam Deck Negra",
-      "price": "1000.00",
+      "price": "$1000.00",
       "description": "El Steam Deck de Valve es el “PC gaming de mano” más esperado del mercado. Y es que promete ofrecer un rendimiento sensacional a pesar de su pequeño tamaño, equiparable a una consola portátil, junto con una excelente experiencia de uso y un precio bajo.",
       "imageUrl": "https://i.imgur.com/DdS7VpG.png",
       "category": "NewProduct",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Consola Nintendo Switch",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "Con tu consola Nintendo Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa.",
       "imageUrl": "https://i.imgur.com/egqab0y.png",
       "category": "Consoles",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Consola Xbox Series S Blanca",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas.",
       "imageUrl": "https://i.imgur.com/8G6ZDjw.png",
       "category": "Consoles",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Consola Sony PS4 Negra",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "Con la consola PlayStation 4, líder mundial en ventas durante años, podrás gozar de horas de juego y una excelente navegabilidad para disfrutar de películas, series y contenido online.",
       "imageUrl": "https://i.imgur.com/AutfzUv.png",
       "category": "Consoles",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Consola Snes Classic Mini",
-      "price": "300.00",
+      "price": "$300.00",
       "description": "Con tu consola Super NES Classic Mini tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.",
       "imageUrl": "https://i.imgur.com/kuk58pG.png",
       "category": "Consoles",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Consola Steam Deck Negra",
-      "price": "1000.00",
+      "price": "$1000.00",
       "description": "El Steam Deck de Valve es el “PC gaming de mano” más esperado del mercado. Y es que promete ofrecer un rendimiento sensacional a pesar de su pequeño tamaño, equiparable a una consola portátil, junto con una excelente experiencia de uso y un precio bajo.",
       "imageUrl": "https://i.imgur.com/DdS7VpG.png",
       "category": "Consoles",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Consola Xbox Series X Negra",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo.",
       "imageUrl": "https://i.imgur.com/0wcVUlX.png",
       "category": "Consoles",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Consola Sony PS5 Negra",
-      "price": "600.00",
+      "price": "$600.00",
       "description": "PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.",
       "imageUrl": "https://i.imgur.com/YO3z5p2.png",
       "category": "Consoles",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Joystick PS5 edición Amarillo",
-      "price": "100.00",
+      "price": "$100.00",
       "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kWtO4c2.png",
       "category": "Joysticks",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Joystick Joycon Nintendo Switch",
-      "price": "90.00",
+      "price": "$90.00",
       "description": "Este mando Joycon de Nintendo Switch combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/d61pPGj.png",
       "category": "Joysticks",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Joystick PS4 edición Rojo",
-      "price": "80.00",
+      "price": "$80.00",
       "description": "Este mando de PS4 edicion rojo combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/gzfPbWx.png",
       "category": "Joysticks",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Joystick Bluetooth Ipega 9129",
-      "price": "50.00",
+      "price": "$50.00",
       "description": "El producto adopta la solución Bluetooth 4.0, admite la conexión directa y el juego directo de dispositivos iOS y Android, y la conexión Bluetooth no requiere plataformas de juego redundantes y configuraciones complicadas y operaciones de activación.",
       "imageUrl": "https://i.imgur.com/17i8rRW.png",
       "category": "Joysticks",
@@ -145,7 +145,7 @@
     },
     {
       "name": "Joystick XBox Series X Azul",
-      "price": "60.00",
+      "price": "$60.00",
       "description": "Este mando de Xbox Series combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/kUrt3fl.png",
       "category": "Joysticks",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Joystick Snes Classic Mini",
-      "price": "80.00",
+      "price": "$80.00",
       "description": "Este mando de snes mini classic combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/PXU5y5T.png",
       "category": "Joysticks",
@@ -161,7 +161,7 @@
     },
     {
       "name": "Auriculares Corsair Void Elite RGB",
-      "price": "90.00",
+      "price": "$90.00",
       "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Corsair VOID Elite Wireless no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
       "imageUrl": "https://i.imgur.com/x45xiwT.png",
       "category": "Sounds",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Auriculares HyperX Cloud II",
-      "price": "85.00",
+      "price": "$85.00",
       "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los HyperX Cloud II no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
       "imageUrl": "https://i.imgur.com/VGxPutX.png",
       "category": "Sounds",
@@ -177,7 +177,7 @@
     },
     {
       "name": "Auriculares Razer Kraken Pro V2",
-      "price": "120.00",
+      "price": "$120.00",
       "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Razer Kraken Pro V2 no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
       "imageUrl": "https://i.imgur.com/OeyGFOZ.png",
       "category": "Sounds",
@@ -185,7 +185,7 @@
     },
     {
       "name": "Parlante JBL Go 3 Bluetooth",
-      "price": "50.00",
+      "price": "$50.00",
       "description": "JBL Go 3 ofrece un sonido natural, con una gran claridad y precisión, que se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia. Úsalo en donde quieras, este dispositivo está diseñado para que tengas el mejor sonido siempre.",
       "imageUrl": "https://i.imgur.com/9fj4A6q.png",
       "category": "Sounds",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Parlante Sony Inalámbrico",
-      "price": "55.00",
+      "price": "$55.00",
       "description": "Siente la potencia de EXTRA BASS, conecta y transmite música fácilmente con Bluetooth y NFC. Perfiles compatibles con Bluetooth - A2DP/AVRCP/HFP/HSP, Añade un altavoz adicional para sonido estéreo. Rango de transmisión de frecuencia: 20 Hz a 20.000 Hz frecuencia de muestreo 44,1 kHz.",
       "imageUrl": "https://i.imgur.com/ZlU2WVb.png",
       "category": "Sounds",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Parlante JBL Extreme 2 Bluetooth",
-      "price": "300.00",
+      "price": "$300.00",
       "description": "Transmisión inalámbrica Bluetooth, 15 horas de reproducción, resistente al agua IPX7, Tejido duradero y material resistente, Tipo de conector: Estéreo de 3,5 milímetros, Alimentación: Alimentado por batería, Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia. Úsalo en donde quieras.",
       "imageUrl": "https://i.imgur.com/yfQikhw.png",
       "category": "Sounds",
@@ -209,7 +209,7 @@
     },
     {
       "name": "Juego PS4 Spiderman Miles Morales",
-      "price": "70.00",
+      "price": "$70.00",
       "description": "Experimenta el ascenso de Miles Morales y sé testigo de cómo el nuevo héroe domina nuevos poderes increíbles y explosivos para convertirse en su propia versión de Spider-Man.",
       "imageUrl": "https://i.imgur.com/UKf0Zb3.png",
       "category": "Various",
@@ -218,7 +218,7 @@
    
     {
       "name": "Funko Pop Minecraft Steve",
-      "price": "60.00",
+      "price": "$60.00",
       "description": "De minecraft, Steve, como un vinilo pop estilizado de funko! la figura mide 3 3/4 pulgadas y viene en un cuadro de visualización de la ventana. ¡mira las otras figuras de minecraft de funko! ¡colecciónalos todos!.",
       "imageUrl": "https://i.imgur.com/XKcmGrG.png",
       "category": "Various",
@@ -226,7 +226,7 @@
     },
     {
       "name": "Tostador de Pan edicion Star Wars",
-      "price": "50.00",
+      "price": "$50.00",
       "description": "El Tostador de Pan es una herramienta de juego de Star Wars que se lanza en el mercado en el año 2019. Este hermoso tostador imprime el logo de Star Wars en el pan.",
       "imageUrl": "https://i.imgur.com/s1GaUN6.png",
       "category": "Various",
@@ -234,7 +234,7 @@
     },
     {
       "name": "Juego Xbox One Forza Horizon 4",
-      "price": "70.00",
+      "price": "$70.00",
       "description": "Con este juego de Forza vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer. Interactúa con otros jugadores Podrás disfrutar de una experiencia inigualable,",
       "imageUrl": "https://i.imgur.com/Cithhw2.png",
       "category": "Various",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Figura de coleccion Star Wars Baby Yoda",
-      "price": "50.00",
+      "price": "$50.00",
       "description": "A los fanáticos de Star Wars les encantará asumir el papel de The Mandalorian Bounty Hunter y cuidar al niño por su cuenta!Abraza completamente la ternura de la especie Yoda de 50 años con este adorable peluche de 11 pulgadas.",
       "imageUrl": "https://i.imgur.com/hC7fsD7.png",
       "category": "Various",
