@@ -158,6 +158,97 @@
       "imageUrl": "https://i.imgur.com/PXU5y5T.png",
       "category": "Joysticks",
       "id": "js6"
+    },
+    {
+      "name": "Auriculares Corsair Void Elite RGB",
+      "price": "90.00",
+      "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Corsair VOID Elite Wireless no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
+      "imageUrl": "https://i.imgur.com/x45xiwT.png",
+      "category": "Sounds",
+      "id": "sn1"
+    },
+    {
+      "name": "Auriculares HyperX Cloud II",
+      "price": "85.00",
+      "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los HyperX Cloud II no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
+      "imageUrl": "https://i.imgur.com/VGxPutX.png",
+      "category": "Sounds",
+      "id": "sn2"
+    },
+    {
+      "name": "Auriculares Razer Kraken Pro V2",
+      "price": "120.00",
+      "description": "Experimenta la adrenalina de sumergirte en la escena de otra manera! Tener auriculares específicos para jugar cambia completamente tu experiencia en cada partida. Con los Razer Kraken Pro V2 no te pierdes ningún detalle y escuchas el audio tal y como fue diseñado por los creadores.",
+      "imageUrl": "https://i.imgur.com/OeyGFOZ.png",
+      "category": "Sounds",
+      "id": "sn3"
+    },
+    {
+      "name": "Parlante JBL Go 3 Bluetooth",
+      "price": "50.00",
+      "description": "JBL Go 3 ofrece un sonido natural, con una gran claridad y precisión, que se dispersa de manera uniforme. Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia. Úsalo en donde quieras, este dispositivo está diseñado para que tengas el mejor sonido siempre.",
+      "imageUrl": "https://i.imgur.com/9fj4A6q.png",
+      "category": "Sounds",
+      "id": "sn4"
+    },
+    {
+      "name": "Parlante Sony Inalámbrico",
+      "price": "55.00",
+      "description": "Siente la potencia de EXTRA BASS, conecta y transmite música fácilmente con Bluetooth y NFC. Perfiles compatibles con Bluetooth - A2DP/AVRCP/HFP/HSP, Añade un altavoz adicional para sonido estéreo. Rango de transmisión de frecuencia: 20 Hz a 20.000 Hz frecuencia de muestreo 44,1 kHz.",
+      "imageUrl": "https://i.imgur.com/ZlU2WVb.png",
+      "category": "Sounds",
+      "id": "sn5"
+    },
+    {
+      "name": "Parlante JBL Extreme 2 Bluetooth",
+      "price": "300.00",
+      "description": "Transmisión inalámbrica Bluetooth, 15 horas de reproducción, resistente al agua IPX7, Tejido duradero y material resistente, Tipo de conector: Estéreo de 3,5 milímetros, Alimentación: Alimentado por batería, Un parlante que asegura potencia y calidad por igual en la reproducción de contenidos multimedia. Úsalo en donde quieras.",
+      "imageUrl": "https://i.imgur.com/yfQikhw.png",
+      "category": "Sounds",
+      "id": "sn6"
+    },
+    {
+      "name": "Juego PS4 Spiderman Miles Morales",
+      "price": "70.00",
+      "description": "Experimenta el ascenso de Miles Morales y sé testigo de cómo el nuevo héroe domina nuevos poderes increíbles y explosivos para convertirse en su propia versión de Spider-Man.",
+      "imageUrl": "https://i.imgur.com/UKf0Zb3.png",
+      "category": "Various",
+      "id": "va1"
+    },
+   
+    {
+      "name": "Funko Pop Minecraft Steve",
+      "price": "60.00",
+      "description": "De minecraft, Steve, como un vinilo pop estilizado de funko! la figura mide 3 3/4 pulgadas y viene en un cuadro de visualización de la ventana. ¡mira las otras figuras de minecraft de funko! ¡colecciónalos todos!.",
+      "imageUrl": "https://i.imgur.com/XKcmGrG.png",
+      "category": "Various",
+      "id": "va3"
+    },
+    {
+      "name": "Tostador de Pan edicion Star Wars",
+      "price": "50.00",
+      "description": "El Tostador de Pan es una herramienta de juego de Star Wars que se lanza en el mercado en el año 2019. Este hermoso tostador imprime el logo de Star Wars en el pan.",
+      "imageUrl": "https://i.imgur.com/s1GaUN6.png",
+      "category": "Various",
+      "id": "va4"
+    },
+    {
+      "name": "Juego Xbox One Forza Horizon 4",
+      "price": "70.00",
+      "description": "Con este juego de Forza vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer. Interactúa con otros jugadores Podrás disfrutar de una experiencia inigualable,",
+      "imageUrl": "https://i.imgur.com/Cithhw2.png",
+      "category": "Various",
+      "id": "va5"
+    },
+    {
+      "name": "Figura de coleccion Star Wars Baby Yoda",
+      "price": "50.00",
+      "description": "A los fanáticos de Star Wars les encantará asumir el papel de The Mandalorian Bounty Hunter y cuidar al niño por su cuenta!Abraza completamente la ternura de la especie Yoda de 50 años con este adorable peluche de 11 pulgadas.",
+      "imageUrl": "https://i.imgur.com/hC7fsD7.png",
+      "category": "Various",
+      "id": "va6"
     }
+    
+    
   ]
 }
