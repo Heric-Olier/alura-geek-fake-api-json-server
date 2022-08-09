@@ -104,12 +104,60 @@
       "id": "cs6"
     },
     {
-      "name": "Consola Sony PS5 Negra ",
+      "name": "Consola Sony PS5 Negra",
       "price": "600.00",
       "description": "PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.",
       "imageUrl": "https://i.imgur.com/YO3z5p2.png",
       "category": "Consoles",
       "id": "cs7"
+    },
+    {
+      "name": "Joystick PS5 edición Amarillo",
+      "price": "100.00",
+      "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/kWtO4c2.png",
+      "category": "Joysticks",
+      "id": "js1"
+    },
+    {
+      "name": "Joystick Joycon Nintendo Switch",
+      "price": "90.00",
+      "description": "Este mando Joycon de Nintendo Switch combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/d61pPGj.png",
+      "category": "Joysticks",
+      "id": "js2"
+    },
+    {
+      "name": "Joystick PS4 edición Rojo",
+      "price": "80.00",
+      "description": "Este mando de PS4 edicion rojo combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/gzfPbWx.png",
+      "category": "Joysticks",
+      "id": "js3"
+    },
+    {
+      "name": "Joystick Ipega 9129",
+      "price": "50.00",
+      "description": "El producto adopta la solución Bluetooth 4.0, admite la conexión directa y el juego directo de dispositivos iOS y Android, y la conexión Bluetooth no requiere plataformas de juego redundantes y configuraciones complicadas y operaciones de activación.",
+      "imageUrl": "https://i.imgur.com/17i8rRW.png",
+      "category": "Joysticks",
+      "id": "js4"
+    },
+    {
+      "name": "Joystick PS5 edición Amarillo",
+      "price": "100.00",
+      "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/kWtO4c2.png",
+      "category": "Joysticks",
+      "id": "js5"
+    },
+    {
+      "name": "Joystick Snes Classic Mini",
+      "price": "100.00",
+      "description": "Este mando de snes mini classic combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/PXU5y5T.png",
+      "category": "Joysticks",
+      "id": "js6"
     }
   ]
 }
