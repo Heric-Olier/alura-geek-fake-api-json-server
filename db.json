@@ -58,11 +58,58 @@
     {
       "name": "Consola Nintendo Switch",
       "price": "600.00",
-      "description": "Con tu consola Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa.",
+      "description": "Con tu consola Nintendo Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa.",
       "imageUrl": "https://i.imgur.com/egqab0y.png",
       "category": "Consoles",
       "id": "cs1"
+    },
+    {
+      "name": "Consola Xbox Series S Blanca",
+      "price": "600.00",
+      "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas.",
+      "imageUrl": "https://i.imgur.com/8G6ZDjw.png",
+      "category": "Consoles",
+      "id": "cs2"
+    },
+    {
+      "name": "Consola Sony PS4 Negra",
+      "price": "600.00",
+      "description": "Con la consola PlayStation 4, líder mundial en ventas durante años, podrás gozar de horas de juego y una excelente navegabilidad para disfrutar de películas, series y contenido online.",
+      "imageUrl": "https://i.imgur.com/AutfzUv.png",
+      "category": "Consoles",
+      "id": "cs3"
+    },
+    {
+      "name": "Consola Snes Classic Mini",
+      "price": "300.00",
+      "description": "Con tu consola Super NES Classic Mini tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.",
+      "imageUrl": "https://i.imgur.com/kuk58pG.png",
+      "category": "Consoles",
+      "id": "cs4"
+    },
+    {
+      "name": "Consola Steam Deck Negra",
+      "price": "1000.00",
+      "description": "El Steam Deck de Valve es el “PC gaming de mano” más esperado del mercado. Y es que promete ofrecer un rendimiento sensacional a pesar de su pequeño tamaño, equiparable a una consola portátil, junto con una excelente experiencia de uso y un precio bajo.",
+      "imageUrl": "https://i.imgur.com/DdS7VpG.png",
+      "category": "Consoles",
+      "id": "cs5"
+    },
+    {
+      "name": "Consola Xbox Series X Negra",
+      "price": "600.00",
+      "description": "La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te diviertes con jugadores de todo el mundo.",
+      "imageUrl": "https://i.imgur.com/0wcVUlX.png",
+      "category": "Consoles",
+      "id": "cs6"
+    },
+    {
+      "name": "Consola Sony PS5 Negra ",
+      "price": "600.00",
+      "description": "PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.",
+      "imageUrl": "https://i.imgur.com/YO3z5p2.png",
+      "category": "Consoles",
+      "id": "cs7"
     }
-
   ]
 }
