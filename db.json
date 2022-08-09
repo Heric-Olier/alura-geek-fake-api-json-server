@@ -144,16 +144,16 @@
       "id": "js4"
     },
     {
-      "name": "Joystick PS5 edición Amarillo",
-      "price": "100.00",
-      "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
-      "imageUrl": "https://i.imgur.com/kWtO4c2.png",
-      "category": "Joysticks",
-      "id": "js5"
+      "name": "Joystick XBox Series X Azul",
+      "price": "60.00",
+      "description": "Este mando de Xbox Series combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
+      "imageUrl": "https://i.imgur.com/kUrt3fl.png",
+      "category": "NewProduct",
+      "id": "np1"
     },
     {
       "name": "Joystick Snes Classic Mini",
-      "price": "100.00",
+      "price": "80.00",
       "description": "Este mando de snes mini classic combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
       "imageUrl": "https://i.imgur.com/PXU5y5T.png",
       "category": "Joysticks",
