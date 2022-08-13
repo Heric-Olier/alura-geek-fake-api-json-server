@@ -104,14 +104,6 @@
       "id": "cs6"
     },
     {
-      "name": "Consola Sony PS5 Negra",
-      "price": "$600.00",
-      "description": "PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.",
-      "imageUrl": "https://i.imgur.com/YO3z5p2.png",
-      "category": "Consoles",
-      "id": "cs7"
-    },
-    {
       "name": "Joystick PS5 edición Amarillo",
       "price": "$100.00",
       "description": "Este mando de PS5 combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, puedes pasar horas jugando con total confort.",
@@ -214,6 +206,14 @@
       "imageUrl": "https://i.imgur.com/UKf0Zb3.png",
       "category": "Various",
       "id": "va1"
+    },
+    {
+      "name": "Funko Pop Star Wars Darth Vader",
+      "price": "$90.00",
+      "description": "A los fanáticos de Star Wars les encantará asumir el papel de The Mandalorian Bounty Hunter y cuidar al niño por su cuenta!Abraza completamente la ternura de la especie Yoda de 50 años con este adorable peluche de 11 pulgadas.",
+      "imageUrl": "https://i.imgur.com/Xz6i4Ye.png",
+      "category": "Various",
+      "id": "va2"
     },
    
     {
